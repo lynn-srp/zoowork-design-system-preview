@@ -1,0 +1,9 @@
+ZooWork component preview
+
+Original component code and CSS: Apache License 2.0 (LICENSE).
+Adapted foundation components: shadcn/ui, Copyright (c) 2023 shadcn, MIT.
+Icons and adapted navigation geometry: Heroicons, Copyright (c) Tailwind Labs, Inc., MIT.
+Third-party code and fonts retain their original licenses.
+See index.html for attribution, upstream sources and local original license files.
+LICENSING.md describes the repository licensing scope; paths mentioned there refer to the source repository.
+These notices do not imply endorsement by the upstream authors.
