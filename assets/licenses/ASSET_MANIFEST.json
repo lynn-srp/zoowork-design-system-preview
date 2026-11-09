@@ -1,0 +1,275 @@
+{
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "ZooWork Design System · Design by Lynn Zhuang",
+  "sourceUrl": "https://lynn-srp.github.io/zoowork-design-system-preview/",
+  "confirmedAt": "2026-11-09",
+  "assets": [
+    {
+      "path": "web/packages/design-system/assets/catalog/channel-icons/disconnect.svg",
+      "packagePath": "assets/catalog/channel-icons/disconnect.svg",
+      "sha256": "f646b000653a247f43cef53f21d7bd8057857812506587b3862d731fd9455083"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/channel-icons/setup-bot.svg",
+      "packagePath": "assets/catalog/channel-icons/setup-bot.svg",
+      "sha256": "1ef43d62b0b21ab7bcaef189862a4719c9d0d3b7d2d42ab44601cf9183ba2925"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agent-settings/copy.svg",
+      "packagePath": "assets/catalog/images/agent-settings/copy.svg",
+      "sha256": "cb66509733cc7f4ba8bcae20400369a1bed848a4af5c1e0ac2579ba2274cd52b"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agent-settings/resource-available.svg",
+      "packagePath": "assets/catalog/images/agent-settings/resource-available.svg",
+      "sha256": "fc4b81e7a3866148dec9c3b40589d279a450fa2f3e794a345ec9789547ba8091"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agent-settings/resource-connected.svg",
+      "packagePath": "assets/catalog/images/agent-settings/resource-connected.svg",
+      "sha256": "f382680d741336a6d97922141fc92869d719ddede96e1aa90b35105f49a6afcd"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agent-settings/resource-details.svg",
+      "packagePath": "assets/catalog/images/agent-settings/resource-details.svg",
+      "sha256": "7ef978f87f1ee0f9e64125dfdbb7e403afe7a1ff95f7f7a56f18e30405335e41"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agent-settings/resource-menu.svg",
+      "packagePath": "assets/catalog/images/agent-settings/resource-menu.svg",
+      "sha256": "6d022d07a6de8863b2424722cbb544c1214711cb2418029045edcca4f486083f"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agent-settings/section-chevron.svg",
+      "packagePath": "assets/catalog/images/agent-settings/section-chevron.svg",
+      "sha256": "fbff53c89ec22f23341a5c469caea6b0ea2fd8d10f383b0fe23ae47a4f71aa72"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agent-settings/skill.svg",
+      "packagePath": "assets/catalog/images/agent-settings/skill.svg",
+      "sha256": "7a27febba27a131cbd86e2bf0e2b8a1148749068d243128ac5656a3dbf3b8446"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agents/v5/01-circle.png",
+      "packagePath": "assets/catalog/images/agents/v5/01-circle.png",
+      "sha256": "e4e8be159f076073855ef12d4fc127421249a32626fd803169cf21b22f409585"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agents/v5/02-rectangle.png",
+      "packagePath": "assets/catalog/images/agents/v5/02-rectangle.png",
+      "sha256": "672fd9af33005fe8d452a8c532cf91dafef7ba238ae69896aa4a1e6d86df823b"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agents/v5/03-triangle.png",
+      "packagePath": "assets/catalog/images/agents/v5/03-triangle.png",
+      "sha256": "cab32461b7cc38d270b967b8d88ba1257668a15a62e6afac2652e547f8037edb"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agents/v5/04-oval.png",
+      "packagePath": "assets/catalog/images/agents/v5/04-oval.png",
+      "sha256": "f8ab76a9b147cba4cc691b2e6117e45a01dfa9049cb2ae752944e8a9c7ed9b02"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agents/v5/05-square.png",
+      "packagePath": "assets/catalog/images/agents/v5/05-square.png",
+      "sha256": "132f97a811df3b9db5dfac63f85dfb4d35fed0d51d7c8f998d51ab47fea0d9d6"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agents/v5/06-flower.png",
+      "packagePath": "assets/catalog/images/agents/v5/06-flower.png",
+      "sha256": "a140aa8d9ff5deb2e915ac18fdff0f99f818284075c5dc24b988cd077a2c7bc0"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agents/v5/07-diamond.png",
+      "packagePath": "assets/catalog/images/agents/v5/07-diamond.png",
+      "sha256": "12cd1287ffc36154804ace366c4523a38365f155bac74625ab237f31418e469c"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agents/v5/08-hexagon.png",
+      "packagePath": "assets/catalog/images/agents/v5/08-hexagon.png",
+      "sha256": "ac2bba60e0bf8acb533b481002fac0eb268767f3ae82d2bbc2af7c2d272bd28e"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agents/v5/09-star.png",
+      "packagePath": "assets/catalog/images/agents/v5/09-star.png",
+      "sha256": "84a3283165a25fca25cc477aaf0ace087ef1883a47aa76745427149fb2494ea2"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/agents/v5/10-drop.png",
+      "packagePath": "assets/catalog/images/agents/v5/10-drop.png",
+      "sha256": "eb8ba86e831f213e9e33d6c4f9fbca7446bee6537fc128839ea82e2ee0700cb2"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/icons/marketing.svg",
+      "packagePath": "assets/catalog/images/icons/marketing.svg",
+      "sha256": "67d4f0c67624eb21f73573d12365003fde7b660d5fa7ca7f82acb02cdd901ce6"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/icons/productivity.svg",
+      "packagePath": "assets/catalog/images/icons/productivity.svg",
+      "sha256": "83479a3064f6d157a3207bb81545be60e1d63516a56a4fa05e03453545d19f72"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/icons/resources-caret.svg",
+      "packagePath": "assets/catalog/images/icons/resources-caret.svg",
+      "sha256": "9df8dce655c3278dcc61b60e0845a8c8b7e1b2329c3b54e17ae869a764095a9b"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/illustrations/zoowork/connection-lost.webp",
+      "packagePath": "assets/catalog/images/illustrations/zoowork/connection-lost.webp",
+      "sha256": "1210e243ae77cdec264f5cf0bdef08b844bbc008d95eda7043fe8237f53e94ea"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/illustrations/zoowork/empty-knowledge.png",
+      "packagePath": "assets/catalog/images/illustrations/zoowork/empty-knowledge.png",
+      "sha256": "7dba9040813404f69e1610c5700b688df1186521b0ec12116ff487ef76c169f5"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/illustrations/zoowork/empty-tasks.webp",
+      "packagePath": "assets/catalog/images/illustrations/zoowork/empty-tasks.webp",
+      "sha256": "f5c3ad2a27dc0fe14d979dd389513e3f3944514b513b145e1d9c45f2adc04ce5"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/illustrations/zoowork/no-results.webp",
+      "packagePath": "assets/catalog/images/illustrations/zoowork/no-results.webp",
+      "sha256": "50d21a1779cf59c75548cf988dfbe094c0ae7ce05beb6675229265630a774c1f"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/illustrations/zoowork/not-found.webp",
+      "packagePath": "assets/catalog/images/illustrations/zoowork/not-found.webp",
+      "sha256": "12188e28efb2020c8f7fce375f2007be68bd292ff4bd25678ba58c1bcd7439ba"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/knowledge/knowledge-book.webp",
+      "packagePath": "assets/catalog/images/knowledge/knowledge-book.webp",
+      "sha256": "dd19a4cd5bcf89c0d993a6e0e928ed80ea344b9ca1a82e4ad2634cb1654c3cac"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/onboarding/circle.webp",
+      "packagePath": "assets/catalog/images/onboarding/circle.webp",
+      "sha256": "af5402a3ddd80cc051a6258c799a08411e83b9144d50c202e6bb433d4391a868"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/onboarding/diamond-cutout.webp",
+      "packagePath": "assets/catalog/images/onboarding/diamond-cutout.webp",
+      "sha256": "bbd8429b42c9e159bd60493a940886a67ed3e54c24f6723b391577892cb81ee4"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/onboarding/flower.webp",
+      "packagePath": "assets/catalog/images/onboarding/flower.webp",
+      "sha256": "89208c3edd7a7f1b8a4e1dc4aad80e9705754d36b4f1681ddfbb0868ad57208e"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/onboarding/hexagon.webp",
+      "packagePath": "assets/catalog/images/onboarding/hexagon.webp",
+      "sha256": "b94b9d4a30162ddd911d9736740aa6ff7542ec44d787cf738ee0a6fa2fdbc148"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/onboarding/rectangle.webp",
+      "packagePath": "assets/catalog/images/onboarding/rectangle.webp",
+      "sha256": "4c950db6f3e5c8b0b31adffef6db131353391b6a877105f3751107884f010d0d"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/onboarding/star.webp",
+      "packagePath": "assets/catalog/images/onboarding/star.webp",
+      "sha256": "a0d0f701092efe02f85c6f02ad39dadbd190511db3a13a98fe2da390d2336a1d"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/onboarding/triangle.webp",
+      "packagePath": "assets/catalog/images/onboarding/triangle.webp",
+      "sha256": "a95e20c6d69af6266c0916d0f7f61506dcc0b1e24a7a43700de3c5cf8e7a6c59"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/skills/skill-lightning.png",
+      "packagePath": "assets/catalog/images/skills/skill-lightning.png",
+      "sha256": "845f34b18b947845ddc5690edc2764e21bbf241293f9e0de05b827a84e206904"
+    },
+    {
+      "path": "web/packages/design-system/assets/catalog/images/skills/skill-updated.svg",
+      "packagePath": "assets/catalog/images/skills/skill-updated.svg",
+      "sha256": "bc87e7e173e132995da8b489628f4cc4ac4dcdab8d0f845444c801a6c38e2256"
+    },
+    {
+      "path": "web/packages/design-system/assets/icons/edit-avatar.svg",
+      "packagePath": "assets/icons/edit-avatar.svg",
+      "sha256": "7c72c315dd15adb37c849214ef2b83a700757f799c2ad92167708c46cd1fbd0e"
+    },
+    {
+      "path": "web/packages/design-system/assets/illustrations/connection-lost.webp",
+      "packagePath": "assets/illustrations/connection-lost.webp",
+      "sha256": "1210e243ae77cdec264f5cf0bdef08b844bbc008d95eda7043fe8237f53e94ea"
+    },
+    {
+      "path": "web/packages/design-system/assets/illustrations/empty-connections.webp",
+      "packagePath": "assets/illustrations/empty-connections.webp",
+      "sha256": "509f497c85279b24ba59e738a671e554c3f763357deb09f355ee23d9edf135ea"
+    },
+    {
+      "path": "web/packages/design-system/assets/illustrations/empty-credentials.webp",
+      "packagePath": "assets/illustrations/empty-credentials.webp",
+      "sha256": "485bc4c25bfa0008b66ce5ba3f6899c352a2862d5faf4f9c714bd3eccf25870f"
+    },
+    {
+      "path": "web/packages/design-system/assets/illustrations/empty-knowledge.png",
+      "packagePath": "assets/illustrations/empty-knowledge.png",
+      "sha256": "7dba9040813404f69e1610c5700b688df1186521b0ec12116ff487ef76c169f5"
+    },
+    {
+      "path": "web/packages/design-system/assets/illustrations/empty-records.webp",
+      "packagePath": "assets/illustrations/empty-records.webp",
+      "sha256": "7532cf45b68d07eef005d3cc25288e93009e338b9c4155dfdcc3c87331a06dbf"
+    },
+    {
+      "path": "web/packages/design-system/assets/illustrations/empty-tasks.webp",
+      "packagePath": "assets/illustrations/empty-tasks.webp",
+      "sha256": "f5c3ad2a27dc0fe14d979dd389513e3f3944514b513b145e1d9c45f2adc04ce5"
+    },
+    {
+      "path": "web/packages/design-system/assets/illustrations/feature-unavailable.webp",
+      "packagePath": "assets/illustrations/feature-unavailable.webp",
+      "sha256": "da12f3ad3a2cb6631619b06d0d3f3a4f559d184130c57c679d13c83e4d2ceda0"
+    },
+    {
+      "path": "web/packages/design-system/assets/illustrations/no-results.webp",
+      "packagePath": "assets/illustrations/no-results.webp",
+      "sha256": "50d21a1779cf59c75548cf988dfbe094c0ae7ce05beb6675229265630a774c1f"
+    },
+    {
+      "path": "web/packages/design-system/assets/illustrations/not-found.webp",
+      "packagePath": "assets/illustrations/not-found.webp",
+      "sha256": "12188e28efb2020c8f7fce375f2007be68bd292ff4bd25678ba58c1bcd7439ba"
+    },
+    {
+      "path": "web/packages/design-system/assets/imagery/hero-canvas.webp",
+      "packagePath": "assets/imagery/hero-canvas.webp",
+      "sha256": "11f7661ab46c46483aa801ac77acf26dc6933583158a8ba282a1dc9fc2924cb2"
+    },
+    {
+      "path": "web/packages/design-system/assets/marketing/resources-caret.svg",
+      "packagePath": "assets/marketing/resources-caret.svg",
+      "sha256": "9df8dce655c3278dcc61b60e0845a8c8b7e1b2329c3b54e17ae869a764095a9b"
+    },
+    {
+      "path": "web/apps/preview/public/product-source/avatars/fox.png",
+      "previewPath": "product-source/avatars/fox.png",
+      "sha256": "fbbf184f8fb11fec69cc39707a34d28e8221aac5181a7e2267f8e86613fe99c1"
+    },
+    {
+      "path": "web/apps/preview/public/product-source/avatars/owl.png",
+      "previewPath": "product-source/avatars/owl.png",
+      "sha256": "fbc86bb44b64b72eac1e990eaa6afadd9174ce34194d094f9cfaada71a07ef37"
+    },
+    {
+      "path": "web/apps/preview/public/videos/sample-clip.mp4",
+      "previewPath": "videos/sample-clip.mp4",
+      "sha256": "65982a62c77718bc86afba43b1886acd55255b34392f565496850a8477ec7a45"
+    }
+  ],
+  "reservedBrandAssets": [
+    "web/packages/design-system/assets/logos/zoowork-horizontal-navy.png",
+    "web/packages/design-system/assets/logos/zoowork-horizontal-white.png",
+    "web/packages/design-system/assets/logos/zoowork-symbol.png",
+    "web/packages/design-system/assets/marketing/zoowork-horizontal-navy.png"
+  ]
+}
