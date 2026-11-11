@@ -264,6 +264,12 @@
       "path": "web/apps/preview/public/videos/sample-clip.mp4",
       "previewPath": "videos/sample-clip.mp4",
       "sha256": "65982a62c77718bc86afba43b1886acd55255b34392f565496850a8477ec7a45"
+    },
+    {
+      "path": "web/apps/preview/public/assets/home/building-blocks.webp",
+      "previewPath": "assets/home/building-blocks.webp",
+      "sha256": "c7cef9ec8efbec7ecb4499b300d71233579962eaf24c2dc117083ddd545cccb6",
+      "provenance": "AI-assisted illustration generated for ZooWorkDesign, 2026-11-11; see web/apps/preview/home/assets/README.md"
     }
   ],
   "reservedBrandAssets": [
