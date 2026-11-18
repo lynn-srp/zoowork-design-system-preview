@@ -1,38 +1,38 @@
 {
-  "version": "3.0.0-pr.13.44281579140.1",
-  "chatUiVersion": "0.1.0-alpha.1.pr.13.44281579140.1",
-  "sourceCommit": "fa7cf7b6ef04b823c11f497c4a483321ab856100",
+  "version": "3.0.51",
+  "chatUiVersion": "0.1.0-alpha.52",
+  "sourceCommit": "44abb4c6e48c3d3f3939074cbe98b5c9ddd2fe7e",
   "site": "https://lynn-srp.github.io/zoowork-design-system-preview/",
   "basePath": "/zoowork-design-system-preview/",
   "delivery": {
-    "event": "pull_request",
-    "pullRequest": 13,
-    "runId": 44281579140,
-    "runNumber": 50,
+    "event": "push",
+    "pullRequest": null,
+    "runId": 44309442741,
+    "runNumber": 51,
     "runAttempt": 1,
-    "headCommit": "29b26fdcb34e452e5996a104edeffd9c24e910d2",
-    "sourceCommit": "fa7cf7b6ef04b823c11f497c4a483321ab856100",
+    "headCommit": "44abb4c6e48c3d3f3939074cbe98b5c9ddd2fe7e",
+    "sourceCommit": "44abb4c6e48c3d3f3939074cbe98b5c9ddd2fe7e",
     "baseVersions": {
       "design": "3.0.0",
       "chat": "0.1.0-alpha.1"
     },
     "versions": {
-      "design": "3.0.0-pr.13.44281579140.1",
-      "chat": "0.1.0-alpha.1.pr.13.44281579140.1",
-      "designTag": "preview",
-      "chatTag": "preview"
+      "design": "3.0.51",
+      "chat": "0.1.0-alpha.52",
+      "designTag": "latest",
+      "chatTag": "next"
     }
   },
   "packages": [
     {
       "name": "@zooclaw/design-system",
-      "version": "3.0.0-pr.13.44281579140.1",
-      "tag": "preview"
+      "version": "3.0.51",
+      "tag": "latest"
     },
     {
       "name": "@zooclaw/chat-ui",
-      "version": "0.1.0-alpha.1.pr.13.44281579140.1",
-      "tag": "preview"
+      "version": "0.1.0-alpha.52",
+      "tag": "next"
     }
   ]
 }
